@@ -24,7 +24,7 @@
 
 Clone the repository:
 ```
-git clone https://github.com/Gitesh08/Track-my-resume.git
+git clone https://github.com/ideal-guy/applicant-tracking-system-using-LLMS.git
 ```
 
 Navigate to the project directory:
