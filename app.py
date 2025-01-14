@@ -8,6 +8,7 @@ import PyPDF2 as pdf
 from dotenv import load_dotenv
 from streamlit_lottie import st_lottie
 import time
+import base64
 
 # Load environment variables from a .env file
 load_dotenv()
